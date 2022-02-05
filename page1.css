@@ -7,6 +7,9 @@ body{
     /* background:linear-gradient( pink) */
 
 }
+html{
+    scroll-behavior: smooth;
+}
 
 section header{
     background: rgb(24, 204, 84);
